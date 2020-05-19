@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\StudentInformationManagement\StudentInformationManagement\bin\StudentInformationManagement.dll.config
+C:\Users\Dell\Desktop\StudentInformationManagement\StudentInformationManagement\bin\StudentInformationManagement.dll
+C:\Users\Dell\Desktop\StudentInformationManagement\StudentInformationManagement\bin\StudentInformationManagement.pdb
+C:\Users\Dell\Desktop\StudentInformationManagement\StudentInformationManagement\obj\Debug\StudentInformationManagement.dll
+C:\Users\Dell\Desktop\StudentInformationManagement\StudentInformationManagement\obj\Debug\StudentInformationManagement.pdb
+C:\Users\Dell\Desktop\StudentInformationManagement\StudentInformationManagement\obj\Debug\StudentInformationManagement.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\StudentInformationManagement\StudentInformationManagement\obj\Debug\StudentInformationManagement.csproj.CoreCompileInputs.cache
